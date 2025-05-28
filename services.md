@@ -1,9 +1,9 @@
 ---
 layout: post
-title: About
+title: Services
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+CyberArk PAM and Odoo.
 
 <figure>
   <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Christopher_Hitchens_crop.jpg" />
