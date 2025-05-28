@@ -6,7 +6,7 @@ title: About
 Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
 
 <figure>
-  <img alt="Christopher Hitchens" src="https://id.wikipedia.org/wiki/Christopher_Hitchens#/media/Berkas:Christopher_Hitchens_crop.jpg" />
+  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Christopher_Hitchens_crop.jpg" />
   <figcaption>
     Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
   </figcaption>
